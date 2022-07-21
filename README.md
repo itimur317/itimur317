@@ -73,7 +73,8 @@
 - Python
 - Bash
 - SQL
-- [![LeetCode](https://img.shields.io/static/v1?label=LeetCode&message=T1mur&color=blue&logo=leetcode&logoColor=white&style=flat)](https://leetcode.com/T1mur337/)
+
+[![LeetCode](https://img.shields.io/static/v1?label=LeetCode&message=T1mur&color=blue&logo=leetcode&logoColor=white&style=flat)](https://leetcode.com/T1mur337/)
 
 
 ### 📩📱&nbsp;Contacts
