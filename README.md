@@ -49,10 +49,10 @@
 
 [![Gmail](https://img.shields.io/static/v1?label=Gmail&message=itimur317@gmail.com&color=blue&logo=gmail&logoColor=white&style=flat)](mailto:itimur317@gmail.com)
 
+#### Last update
 
 
 
 
-<!--
-[![Profile last updated](https://img.shields.io/github/last-commit/samujjwaal/samujjwaal/master?label=Last%20updated&style=flat)](https://github.com/samujjwaal/samujjwaal/commits)
--->
+[![Profile last updated](https://img.shields.io/github/last-commit/itimur317/itimur317/master?label=Last%20updated&style=flat)](https://github.com/itimur317/itimur317/commits)
+
