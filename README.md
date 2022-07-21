@@ -16,7 +16,7 @@
 
 <!--
 ### 🛠🐶&nbsp;Pet projects
--->
+
 
 
 ### 📚🧩&nbsp;Skills
@@ -45,6 +45,35 @@
   - Bash
   - SQL
   - [![LeetCode](https://img.shields.io/static/v1?label=LeetCode&message=T1mur&color=blue&logo=leetcode&logoColor=white&style=flat)](https://leetcode.com/T1mur337/)
+-->
+
+
+### 📚🧩&nbsp;Skills
+#### iOS Dev&nbsp;
+- Swift
+- UIKit 
+- MVP, VIPER
+- AutoLayout, PinLayout
+- Core Animation
+- Firebase
+- URLSession
+- CocoaPods(using + creating)
+- API(using + creating)
+- Git(+ git submodules)
+
+#### Principles&nbsp;
+- SOLID
+- KISS
+- DRY
+- GitFlow
+- Agile
+- Scrum
+
+#### Other&nbsp;
+- Python
+- Bash
+- SQL
+- [![LeetCode](https://img.shields.io/static/v1?label=LeetCode&message=T1mur&color=blue&logo=leetcode&logoColor=white&style=flat)](https://leetcode.com/T1mur337/)
 
 
 ### 📩📱&nbsp;Contacts
