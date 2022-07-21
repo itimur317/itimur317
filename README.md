@@ -2,6 +2,7 @@
 
 `sep 2019` - `now`&nbsp; Bachelor 🔍 Applied mathematics and computer science 🏢 [NRNU MEPhI](https://mephi.ru)
 
+
 ### 🛠👨‍💻&nbsp;Experience
 
 `july 2022` - `now`&nbsp; Mobile(iOS) dev summer school ▫️Yandex
@@ -51,6 +52,7 @@
 [![Telegram](https://img.shields.io/static/v1?label=Telegram&message=chieftim&color=blue&logo=telegram&logoColor=white&style=flat)](https://t.me/chieftim)
 
 [![Gmail](https://img.shields.io/static/v1?label=Gmail&message=itimur317@gmail.com&color=blue&logo=gmail&logoColor=white&style=flat)](mailto:itimur317@gmail.com)
+
 
 #### Last update
 
