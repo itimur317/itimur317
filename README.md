@@ -1,17 +1,17 @@
 ### 📝👨‍🎓&nbsp;Education
 
-`sep 2019` - `now`&nbsp; Bachelor 🔍 Applied mathematics and computer science 🏢 [NRNU MEPhI](https://mephi.ru)
+`sep 2019` ➖ `now`&nbsp; Bachelor 🔍 Applied mathematics and computer science 🏢 [NRNU MEPhI](https://mephi.ru)
 
 
 ### 🛠👨‍💻&nbsp;Experience
 
-`july 2022` - `now`&nbsp; Mobile(iOS) dev summer school ▫️Yandex
+`july 2022` ➖ `now`&nbsp; Mobile(iOS) dev summer school ▫️Yandex
 
-`march 2022` - `july 2022`&nbsp; iOS dev internship ▫️Movika(daughter company of the "Sber") 
+`march 2022` ➖ `july 2022`&nbsp; iOS dev internship ▫️Movika(daughter company of the "Sber") 
 
-`sep 2021` - `dec 2021`&nbsp; iOS dev course ▫️VK
+`oct 2021` ➖ `dec 2021`&nbsp; iOS dev course ▫️VK
 
-`sep 2020` - `dec 2020`&nbsp; Manual testing course ▫️VK
+`oct 2020` ➖ `dec 2020`&nbsp; Manual testing course ▫️VK
 
 
 <!--
