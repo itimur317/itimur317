@@ -24,14 +24,14 @@
   - Swift
   - UIKit
   - MVP, VIPER
-  - CocoaPods(using + creating)
   - AutoLayout, PinLayout
   - Core Animation
-  - Git(+ git submodules)
   - Firebase
-  - API(using + creating)
   - URLSession
-  
+  - CocoaPods(using + creating)
+  - API(using + creating)
+  - Git(+ git submodules)
+
 - **Principles**&nbsp;
   - SOLID
   - KISS
