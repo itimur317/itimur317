@@ -61,11 +61,8 @@
 - Git(+ git submodules)
 
 #### Principles&nbsp;
-- SOLID
-- KISS
-- DRY
-- Agile
-- Scrum
+- SOLID, KISS, DRY
+- Agile, Scrum
 
 #### Other&nbsp;
 - Python
