@@ -64,7 +64,6 @@
 - SOLID
 - KISS
 - DRY
-- GitFlow
 - Agile
 - Scrum
 
