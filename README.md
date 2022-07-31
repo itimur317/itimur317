@@ -9,6 +9,8 @@
 
 `march 2022` ➖ `july 2022`&nbsp; iOS dev internship ▫️Movika(daughter company of the "Sber") 
 
+`march 2022` ➖ `may 2022`&nbsp; iOS dev course(mentor) ▫️VK
+
 `oct 2021` ➖ `dec 2021`&nbsp; iOS dev course ▫️VK
 
 `oct 2020` ➖ `dec 2020`&nbsp; Manual testing course ▫️VK
