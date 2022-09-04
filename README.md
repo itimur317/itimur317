@@ -7,7 +7,7 @@
 
 `july 2022` ➖ `now`&nbsp; Mobile(iOS) dev summer school ▫️Yandex
 
-`may 2022` ➖ `july 2022`&nbsp; iOS dev internship ▫️Movika(daughter company of the "Sber") 
+`april 2022` ➖ `july 2022`&nbsp; iOS dev internship ▫️Movika(daughter company of the "Sber") 
 
 `march 2022` ➖ `may 2022`&nbsp; iOS dev course(mentor) ▫️VK
 
