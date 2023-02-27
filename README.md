@@ -5,7 +5,9 @@
 
 ### 🛠👨‍💻&nbsp;Experience
 
-`july 2022` ➖ `oct 2022`&nbsp; Mobile(iOS) dev summer school ▫️Yandex
+`nov 2022` ➖ `march 2023`&nbsp; iOS dev internship ▫️Yandex Go
+
+`july 2022` ➖ `oct 2022`&nbsp; iOS dev summer school ▫️Yandex
 
 `april 2022` ➖ `july 2022`&nbsp; iOS dev internship ▫️Movika(daughter company of the "Sber") 
 
