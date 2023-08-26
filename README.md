@@ -1,6 +1,8 @@
 ### 📝👨‍🎓&nbsp;Education
 
-`sep 2019` ➖ `now`&nbsp; Bachelor 🔍 Applied mathematics and computer science 🏢 [NRNU MEPhI](https://mephi.ru)
+`sep 2023` ➖ `now`&nbsp; Magistracy  🔍 Software engineering 🏢 [HSE](https://www.hse.ru/en/)
+
+`sep 2019` ➖ `aug 2023`&nbsp; Bachelor 🔍 Applied mathematics and computer science 🏢 [NRNU MEPhI](https://mephi.ru)
 
 
 ### 🛠👨‍💻&nbsp;Experience
